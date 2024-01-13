@@ -1,2 +1,2 @@
 # ufc-goat
-UFC Fighter stat analysis to determine the greatest [fighter] of all time
+UFC fighter stat analysis to determine the Greatest _Fighter_ Of All Time
